@@ -1,4 +1,4 @@
-# RV32I ALU (VHDL)
+# RV32I ALU: a resource-shared 32-bit RISC-V ALU in VHDL
 
 A 32-bit ALU implementing the RV32I integer register-register operations,
 designed to minimize hardware by sharing datapath resources. Includes a
